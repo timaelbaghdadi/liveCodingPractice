@@ -19,8 +19,9 @@ Understanding these data structures is fundamental to becoming a proficient Java
 - *HashSet*: A collection that does not allow duplicate elements, and has no guarantee for element order. It has a time complexity of O(1) for basic operations like add, remove, contains, and size. HashSets are used when searching for items in a collection.
 
 - *HashMap*: A map providing key-value storage. It does not maintain the order of elements. It has a time complexity of O(1) for basic operations like get and put. HashMaps are used for easy and fast data lookup.
-![Image 1](./9d93282a-233f-4f0d-8984-33ee88cdcca9)
-![Image 2](./9bc320c2-47e2-4433-9ace-8430103d7464)
+
+![Linear_structures](https://github.com/timaelbaghdadi/liveCodingPractice/assets/63514409/098d78a3-5f8a-4f3d-865f-0bf4bd7a79e8)
+![Non_linear_structures](https://github.com/timaelbaghdadi/liveCodingPractice/assets/63514409/c6a0f409-d3d4-4670-9b58-2171f6f55da6)
 
 Some notes about the pictures: M means method, A means Advantages, D means disadvantages, C means class, I mean Interface
 
